@@ -112,5 +112,5 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=meraldeph&show_icons=true&theme=graywhite" target="_blank>
+<img src="https://github-readme-stats.vercel.app/api?username=meraldeph&show_icons=true&theme=graywhite" target="_blank">
 </p>

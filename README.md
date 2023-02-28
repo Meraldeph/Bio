@@ -1,4 +1,4 @@
-![GitHub Readme Profile Banner copy](https://user-images.githubusercontent.com/60168324/137659662-30dd7b29-f742-4b24-87fe-12fb99a9d72c.gif)
+![GitHub Readme Profile Banner copy](https://myimage.gif)
 <br>
 <br>
 
